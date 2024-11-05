@@ -19,7 +19,7 @@ The Strapi Country Select Plugin is a custom plugin for Strapi that allows you t
 
 ## ⚙️ Installation
 
-To install the Strapi Advanced UUID Plugin, simply run one of the following command:
+To install the Strapi Country Select Plugin, simply run one of the following command:
 
 ```
 npm install strapi-country-select
