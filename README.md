@@ -1,12 +1,12 @@
 <p align="center">
-     <img src="./docs/screenshots/strapi-country-select.png" alt="Bootstrap Icons" width="100">
+     <img src="./docs/screenshots/strapi-country-select.png" alt="Country Select" width="100">
 </p>
 
 <h1 align="center">
   Strapi Country Select
 </h1>
 
-<p align="center">Custom Field plugin for Strapi to select countries in `ISO 3166-1 alpha-2` format</p>
+<p align="center">Custom Field plugin for Strapi to select countries in ISO 3166-1 alpha-2 format</p>
 
 <p align="center">
   <a href="https://www.npmjs.com/package/strapi-country-select">
