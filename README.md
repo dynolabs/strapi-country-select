@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://www.npmjs.com/package/strapi-country-select">
     <img src="https://img.shields.io/npm/v/strapi-country-select" alt="Version">
-    <img src="https://img.shields.io/npm/l/sstrapi-country-select" alt="License">
+    <img src="https://img.shields.io/npm/l/strapi-country-select" alt="License">
   </a>
 </p>
 
@@ -19,7 +19,7 @@ The Strapi Country Select Plugin is a custom plugin for Strapi that allows you t
 
 ## ⚙️ Installation
 
-To install the Strapi Advanced UUID Plugin, simply run one of the following command:
+To install the Strapi Country Select Plugin, simply run one of the following command:
 
 ```
 npm install strapi-country-select
