@@ -3590,7 +3590,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@strapi/typescript-utils@npm:5.2.0, @strapi/typescript-utils@npm:^5.2.0":
+"@strapi/typescript-utils@npm:5.2.0":
   version: 5.2.0
   resolution: "@strapi/typescript-utils@npm:5.2.0"
   dependencies:
@@ -3601,6 +3601,20 @@ __metadata:
     prettier: "npm:3.3.3"
     typescript: "npm:5.3.2"
   checksum: 10c0/3f2c519c17ebd036aadf0ba00cbacc86b1444262fd27a30343f42f0c70ae04ad331a83c2c8322346a47d24514974f507264cd584bc00fd1607b3b6ceac5aab75
+  languageName: node
+  linkType: hard
+
+"@strapi/typescript-utils@npm:^5.2.0":
+  version: 5.5.2
+  resolution: "@strapi/typescript-utils@npm:5.5.2"
+  dependencies:
+    chalk: "npm:4.1.2"
+    cli-table3: "npm:0.6.5"
+    fs-extra: "npm:11.2.0"
+    lodash: "npm:4.17.21"
+    prettier: "npm:3.3.3"
+    typescript: "npm:5.3.2"
+  checksum: 10c0/90ddbd073c778b9b3e57043faf47c55bc7e81027a8c51dbb5755585c02954f4639f944b46fbda594533e026ff1f7d7e7bf2f87b7e1650b1bc4a72216ff296aec
   languageName: node
   linkType: hard
 
@@ -14301,11 +14315,11 @@ __metadata:
 
 "typescript@patch:typescript@npm%3A^5.6.3#optional!builtin<compat/typescript>":
   version: 5.6.3
-  resolution: "typescript@patch:typescript@npm%3A5.6.3#optional!builtin<compat/typescript>::version=5.6.3&hash=5adc0c"
+  resolution: "typescript@patch:typescript@npm%3A5.6.3#optional!builtin<compat/typescript>::version=5.6.3&hash=8c6c40"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: 10c0/ac8307bb06bbfd08ae7137da740769b7d8c3ee5943188743bb622c621f8ad61d244767480f90fbd840277fbf152d8932aa20c33f867dea1bb5e79b187ca1a92f
+  checksum: 10c0/7c9d2e07c81226d60435939618c91ec2ff0b75fbfa106eec3430f0fcf93a584bc6c73176676f532d78c3594fe28a54b36eb40b3d75593071a7ec91301533ace7
   languageName: node
   linkType: hard
 
