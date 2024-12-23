@@ -74,7 +74,7 @@
     "prettier": "^3.3.3",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-router-dom": "^6.27.0",
+    "react-router-dom": "^7.1.0",
     "styled-components": "^6.1.13",
     "typescript": "^5.6.3"
   },
@@ -83,7 +83,7 @@
     "@strapi/strapi": "^5.2.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-router-dom": "^6.27.0",
+    "react-router-dom": "^7.1.0",
     "styled-components": "^6.1.13"
   },
   "strapi": {
