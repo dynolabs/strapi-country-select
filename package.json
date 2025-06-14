@@ -63,7 +63,7 @@
     "@strapi/icons": "^2.0.0-rc.12",
     "countries-list": "^3.1.1",
     "country-flag-icons": "^1.5.13",
-    "react-intl": "^6.8.7"
+    "react-intl": "^7.1.6"
   },
   "devDependencies": {
     "@strapi/sdk-plugin": "^5.2.7",
