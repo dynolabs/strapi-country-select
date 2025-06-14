@@ -37,11 +37,6 @@ const Input = forwardRef<HTMLInputElement, TProps>((props, forwardedRef) => {
     } as React.ChangeEvent<HTMLInputElement>);
   };
 
-  // Helper function to handle the onClear event
-  const handleOnClear = () => {
-    onChange({ target: { value: '', name } } as React.ChangeEvent<HTMLInputElement>);
-  };
-
   return (
     <Field.Root name={name} id={name} error={error} hint={hint} required={required}>
       <Field.Label action={labelAction}>{label}</Field.Label>
@@ -56,8 +51,7 @@ const Input = forwardRef<HTMLInputElement, TProps>((props, forwardedRef) => {
         placeholder={placeholder}
         required={required}
         onChange={handleOnChange}
-        onClear={handleOnClear}
-        autocomplete="list"
+        autocomplete={{ type: 'list', filter: 'contains' }}
         startIcon={<CountryIcon code={value} />}
       >
         {countries.map((country) => (

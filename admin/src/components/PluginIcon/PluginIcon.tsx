@@ -1,5 +1,5 @@
-import { SvgIcon } from "./SvgIcon";
+import Icon from './icon.svg'
 
-const PluginIcon = () => <SvgIcon />;
+const PluginIcon = () => <img alt="country select" src={Icon} />
 
-export default PluginIcon;
+export default PluginIcon
