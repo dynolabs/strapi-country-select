@@ -10,14 +10,14 @@
     "country select",
     "ISO 3166"
   ],
-  "homepage": "https://github.com/Dulajdeshan/strapi-country-select",
-  "readme": "https://github.com/Dulajdeshan/strapi-country-select#readme",
+  "homepage": "https://github.com/dynolabs/strapi-country-select",
+  "readme": "https://github.com/dynolabs/strapi-country-select#readme",
   "bugs": {
-    "url": "https://github.com/Dulajdeshan/strapi-country-select/issues",
+    "url": "https://github.com/dynolabs/strapi-country-select/issues",
     "email": "dulajdeshans@gmail.com"
   },
   "repository": {
-    "url": "git+https://github.com/Dulajdeshan/strapi-country-select.git",
+    "url": "git+https://github.com/dynolabs/strapi-country-select.git",
     "type": "git",
     "directory": "."
   },
